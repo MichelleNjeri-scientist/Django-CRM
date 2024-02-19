@@ -61,6 +61,7 @@ WSGI_APPLICATION = 'drcm.wsgi.application'
 
 
 # Database
+# Changes to test
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
