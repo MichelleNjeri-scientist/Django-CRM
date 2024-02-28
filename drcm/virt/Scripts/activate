@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\HP\Desktop\Django\drcm\virt"
+VIRTUAL_ENV="c:\Users\HP\Desktop\Django\drcm\virt"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
